@@ -8,6 +8,7 @@ In this project, you will be able to select the company you wish to predict and 
 * [How to Install and Run the Project](#How-to-Install-and-Run-the-Project)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Credits](#credits)
 
 ## Technologies
 Project is created with:
