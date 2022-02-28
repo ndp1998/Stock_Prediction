@@ -16,7 +16,7 @@ Project is created with:
 * pandas-datareader : 0.10.0
 * tensorflow : 2.8.0
 * matplotlib : 3.5.1
-* scikit-learn==1.0.2
+* scikit-learn : 1.0.2
 * numpy : 1.22.1
 	
 ## Setup
